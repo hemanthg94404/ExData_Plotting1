@@ -1,4 +1,3 @@
-#library(dplyr)
 ## Class 4 : Exploratory Data Analysis
 ## Hemanth G - 5/7/16
 ##
